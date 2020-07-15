@@ -1,8 +1,14 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Projeto de estudo.
 
-## Available Scripts
+Criar aplicação em React que busca e lista todos os repositórios do github a partir de um campo de entrada/input
 
-In the project directory, you can run:
+## Start App React
+
+* npx create-react-app {nome-do-projeto}
+
+Inicia todo o projeto parametrizado. (- webpack, -npm, ...)
+
+
 
 ### `npm start`
 
